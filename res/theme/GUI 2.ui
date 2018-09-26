@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="GUI 2" cloudDestinationProperty="GUI 2" layout="BoxLayout" boxLayoutAxis="Y" >
+  <component type="Container" name="Container" cloudDestinationProperty="Container" layout="BoxLayout" boxLayoutAxis="Y" >
+    <component type="TextField" name="TextField" cloudBoundProperty="text" cloudDestinationProperty="TextField" text="" hint="Depart" >
+    </component>
+    <component type="TextField" name="TextField1" cloudBoundProperty="text" cloudDestinationProperty="TextField1" text="" hint="Destination" >
+    </component>
+    <component type="Picker" name="Picker" cloudDestinationProperty="Picker" text="14/12/17" >
+    </component>
+    <component type="ComboBox" name="ComboBox" cloudDestinationProperty="ComboBox" >
+      <stringItem value="Economique" />
+      <stringItem value="Affaire" />
+    </component>
+    <component type="Button" name="Button" cloudDestinationProperty="Button" text="Rechercher Vol" >
+    </component>
+  </component>
+</component>

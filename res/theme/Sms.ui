@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="Sms" cloudDestinationProperty="Sms" layout="BoxLayout" boxLayoutAxis="Y" >
+  <component type="Label" name="Label" cloudDestinationProperty="Label" text="Num Tel:" >
+  </component>
+  <component type="TextField" name="TextField" cloudBoundProperty="text" cloudDestinationProperty="TextField" text="" >
+  </component>
+  <component type="Label" name="Label1" cloudDestinationProperty="Label1" text="Sujet" >
+  </component>
+  <component type="TextArea" name="TextArea" cloudBoundProperty="text" cloudDestinationProperty="TextArea" text="" >
+  </component>
+  <component type="Button" name="Button" cloudDestinationProperty="Button" text="Button" >
+  </component>
+</component>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="AddOffre" cloudDestinationProperty="AddOffre" layout="BoxLayout" boxLayoutAxis="Y" >
+  <component type="Label" name="Label4" cloudDestinationProperty="Label4" text="Pourcentage :" >
+  </component>
+  <component type="Slider" name="Slider" cloudDestinationProperty="Slider" focusable="true" text="" editable="true" >
+  </component>
+  <component type="Label" name="Label2" cloudDestinationProperty="Label2" text="aa" >
+  </component>
+  <component type="Label" name="Label3" cloudDestinationProperty="Label3" text="aa" >
+  </component>
+  <component type="Label" name="Label" cloudDestinationProperty="Label" text="Date D&#xe9;but :" >
+  </component>
+  <component type="Picker" name="Picker" cloudDestinationProperty="Picker" text="09/12/17" >
+  </component>
+  <component type="Label" name="Label1" cloudDestinationProperty="Label1" text="Date Fin :" >
+  </component>
+  <component type="Picker" name="Picker1" cloudDestinationProperty="Picker1" text="09/12/17" >
+  </component>
+  <component type="Button" name="Button" cloudDestinationProperty="Button" text="Confirmer" >
+  </component>
+</component>

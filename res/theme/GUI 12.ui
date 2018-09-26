@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="GUI 12" cloudDestinationProperty="GUI 12" layout="BoxLayout" boxLayoutAxis="Y" >
+  <component type="Button" name="Button1" cloudDestinationProperty="Button1" commandName="Google Maps" commandId="1" commandAction="" commandBack="false" text="Google Maps" >
+  </component>
+  <component type="TextField" name="TextField" cloudBoundProperty="text" cloudDestinationProperty="TextField" text="" >
+  </component>
+  <component type="Button" name="Button" cloudDestinationProperty="Button" text="Rechercher" >
+  </component>
+<command name="back" icon="back_left_pressed.png" rolloverIcon="back_left_pressed.png" pressedIcon="back_left_pressed.png" id="2" action="" backCommand="false" /></component>

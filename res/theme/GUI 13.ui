@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="GUI 13" cloudDestinationProperty="GUI 13" layout="BoxLayout" boxLayoutAxis="Y" >
+  <component type="TextField" name="TextField" cloudBoundProperty="text" cloudDestinationProperty="TextField" text="" >
+  </component>
+  <component type="Button" name="Button" cloudDestinationProperty="Button" text="Chercher" >
+  </component>
+</component>

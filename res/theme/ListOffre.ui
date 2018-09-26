@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="ListOffre" cloudDestinationProperty="ListOffre" scrollableX="false" scrollableY="true" layout="BoxLayout" boxLayoutAxis="Y" >
+</component>
